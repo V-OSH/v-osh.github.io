@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background Circle - Deep Forest -->
+  <circle cx="50" cy="50" r="48" fill="#1a1f1d"/>
+
+  <!-- Gradient Definition - Forest & Cream theme -->
+  <defs>
+    <linearGradient id="forestGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7d8f5a"/>
+      <stop offset="100%" style="stop-color:#5a7d6b"/>
+    </linearGradient>
+    <linearGradient id="creamGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#c4a777"/>
+      <stop offset="100%" style="stop-color:#a89580"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Left bracket [ -->
+  <path d="M 34 28 L 28 28 L 28 72 L 34 72" stroke="url(#creamGrad)" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Stylized 'H' for Henry - left vertical bar -->
+  <rect x="40" y="28" width="7" height="44" rx="2" fill="url(#forestGrad)"/>
+
+  <!-- Stylized 'H' - right vertical bar -->
+  <rect x="53" y="28" width="7" height="44" rx="2" fill="url(#forestGrad)"/>
+
+  <!-- Stylized 'H' - horizontal bar -->
+  <rect x="40" y="46" width="20" height="8" rx="2" fill="url(#forestGrad)"/>
+
+  <!-- Right bracket ] -->
+  <path d="M 66 28 L 72 28 L 72 72 L 66 72" stroke="url(#creamGrad)" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
