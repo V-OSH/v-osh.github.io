@@ -57,7 +57,7 @@ const translations = {
         'achievements.school.desc': 'All A grades in A-Level subjects: Maths, Further Maths, Physics, Chemistry, CS',
         'contact.title': 'Get In Touch',
         'contact.subtitle': "I'm currently preparing for university applications starting Fall 2027. Feel free to reach out!",
-        'contact.email': 'Email',
+        'contact.email': 'Bilibili',
         'common.view': 'View',
         'common.demo': 'Live Demo',
         'common.browse': 'Browse'
@@ -119,7 +119,7 @@ const translations = {
         'achievements.school.desc': 'A-Level 所有科目 A 成绩：数学、进阶数学、物理、化学、计算机',
         'contact.title': '联系我',
         'contact.subtitle': '目前正在准备 2027 年秋季大学申请。欢迎联系！',
-        'contact.email': '邮箱',
+        'contact.email': 'Bilibili',
         'common.view': '查看',
         'common.demo': '在线演示',
         'common.browse': '浏览'
